@@ -3,7 +3,7 @@
 
 ## Important 
 
-Template is in **star_pattern/task_page.html** location
+Template is in **wayamba_task/task_page.html** location
 
 Create a seperate CSS / JS files for each task in **assets/(js/css)** directory 
 
